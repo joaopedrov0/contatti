@@ -1,0 +1,19 @@
+{
+  "name": "contatti",
+  "version": "1.0.0",
+  "description": "Uma agenda de contatos, para salvar, editar e excluir contatos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopedrov0/contatti.git"
+  },
+  "author": "joaopedrov0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaopedrov0/contatti/issues"
+  },
+  "homepage": "https://github.com/joaopedrov0/contatti#readme"
+}
